@@ -1,0 +1,16 @@
+body
+{
+  margin: 0;
+	background-color: black;
+	font-family: "Montserrat", serif;
+	overflow: hidden;
+	color: white;
+}
+
+
+.main
+{
+	display: flex;
+	height: 100vh;
+	padding: 0.5rem;
+}
